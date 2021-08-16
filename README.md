@@ -6,7 +6,6 @@ Repositório para Projetos de estudo em Machine Learning:
 
 2 - E_commerce_analysis: Código de Visualização de dados
 
-
-3 - Face_Detector: Código de detecção de faces usando OpenCV.
+3 - Detector de Faces: Código de detecção de faces usando OpenCV.
 
 
